@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="436" viewBox="0 0 900 436" role="img" aria-label="Terminal: whoami, trabajo, stack, contacto">
+<style>
+  text{font:16px 'Courier New',monospace;white-space:pre}
+  .cur{animation:blink 1s infinite steps(1)}
+  @keyframes blink{50%{opacity:0}}
+@keyframes l0{0%,3.56%{width:153.6px}6.05%,100%{width:211.2px}}
+@keyframes s0{0%,3.50%{opacity:0}3.56%,100%{opacity:1}}
+@keyframes s1{0%,8.96%{opacity:0}9.02%,100%{opacity:1}}
+@keyframes l2{0%,11.10%{width:153.6px}17.33%,100%{width:297.59999999999997px}}
+@keyframes s2{0%,11.04%{opacity:0}11.10%,100%{opacity:1}}
+@keyframes s3{0%,20.24%{opacity:0}20.30%,100%{opacity:1}}
+@keyframes l4{0%,22.37%{width:153.6px}29.85%,100%{width:326.4px}}
+@keyframes s4{0%,22.31%{opacity:0}22.37%,100%{opacity:1}}
+@keyframes s5{0%,32.76%{opacity:0}32.82%,100%{opacity:1}}
+@keyframes l6{0%,34.90%{width:153.6px}41.13%,100%{width:297.59999999999997px}}
+@keyframes s6{0%,34.84%{opacity:0}34.90%,100%{opacity:1}}
+@keyframes s7{0%,44.04%{opacity:0}44.09%,100%{opacity:1}}
+@keyframes l8{0%,46.17%{width:153.6px}51.57%,100%{width:278.4px}}
+@keyframes s8{0%,46.11%{opacity:0}46.17%,100%{opacity:1}}
+@keyframes s9{0%,54.48%{opacity:0}54.54%,100%{opacity:1}}
+@keyframes l10{0%,56.62%{width:153.6px}60.36%,100%{width:240px}}
+@keyframes s10{0%,56.56%{opacity:0}56.62%,100%{opacity:1}}
+@keyframes s11{0%,63.26%{opacity:0}63.32%,100%{opacity:1}}
+@keyframes l12{0%,65.40%{width:153.6px}71.22%,100%{width:288px}}
+@keyframes s12{0%,65.34%{opacity:0}65.40%,100%{opacity:1}}
+@keyframes s13{0%,74.12%{opacity:0}74.18%,100%{opacity:1}}
+@keyframes sc{0%,76.20%{opacity:0}76.26%,100%{opacity:1}}
+</style>
+<rect width="900" height="436" rx="12" fill="#0d1117" stroke="#1f6f2b"/>
+<rect width="900" height="32" rx="12" fill="#161b22"/><rect y="20" width="900" height="12" fill="#161b22"/>
+<circle cx="22" cy="16" r="6" fill="#ff5f56"/><circle cx="42" cy="16" r="6" fill="#ffbd2e"/><circle cx="62" cy="16" r="6" fill="#27c93f"/>
+<text x="450" y="21" fill="#8b949e" text-anchor="middle" style="font-size:13px">stiven@unioc: ~</text>
+<g style="animation:s0 16.85s infinite"><clipPath id="c0"><rect x="22" y="49" height="24" style="animation:l0 16.85s infinite steps(6)"/></clipPath><text x="22" y="66" clip-path="url(#c0)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">whoami</tspan></text></g><text x="22" y="90" fill="#9da7b3" style="animation:s1 16.85s infinite">Ingeniero de Sistemas Full Stack, backend y frontend</text><g style="animation:s2 16.85s infinite"><clipPath id="c2"><rect x="22" y="97" height="24" style="animation:l2 16.85s infinite steps(15)"/></clipPath><text x="22" y="114" clip-path="url(#c2)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">cat trabajo.txt</tspan></text></g><text x="22" y="138" fill="#9da7b3" style="animation:s3 16.85s infinite">Aula virtual y aplicaciones de UNIOC</text><g style="animation:s4 16.85s infinite"><clipPath id="c4"><rect x="22" y="145" height="24" style="animation:l4 16.85s infinite steps(18)"/></clipPath><text x="22" y="162" clip-path="url(#c4)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">cat motivacion.txt</tspan></text></g><text x="22" y="186" fill="#9da7b3" style="animation:s5 16.85s infinite">Hambre de conocimiento y mucha curiosidad</text><g style="animation:s6 16.85s infinite"><clipPath id="c6"><rect x="22" y="193" height="24" style="animation:l6 16.85s infinite steps(15)"/></clipPath><text x="22" y="210" clip-path="url(#c6)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">cat enfoque.txt</tspan></text></g><text x="22" y="234" fill="#9da7b3" style="animation:s7 16.85s infinite">Ciberseguridad y automatización de procesos</text><g style="animation:s8 16.85s infinite"><clipPath id="c8"><rect x="22" y="241" height="24" style="animation:l8 16.85s infinite steps(13)"/></clipPath><text x="22" y="258" clip-path="url(#c8)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">cat infra.txt</tspan></text></g><text x="22" y="282" fill="#9da7b3" style="animation:s9 16.85s infinite">Administración y configuración de servidores, manejo de VPS</text><g style="animation:s10 16.85s infinite"><clipPath id="c10"><rect x="22" y="289" height="24" style="animation:l10 16.85s infinite steps(9)"/></clipPath><text x="22" y="306" clip-path="url(#c10)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">ls stack/</tspan></text></g><text x="22" y="330" fill="#9da7b3" style="animation:s11 16.85s infinite">c#  .net  angular  javascript  typescript  docker</text><g style="animation:s12 16.85s infinite"><clipPath id="c12"><rect x="22" y="337" height="24" style="animation:l12 16.85s infinite steps(14)"/></clipPath><text x="22" y="354" clip-path="url(#c12)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">./contactar.sh</tspan></text></g><text x="22" y="378" fill="#39ff14" style="animation:s13 16.85s infinite">[ok] abierto a nuevos proyectos</text><g style="animation:sc 16.85s infinite"><text x="22" y="402" fill="#39ff14">stiven@unioc:~$</text><rect class="cur" x="175.6" y="387" width="10" height="19" fill="#39ff14"/></g>
+</svg>
