@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="MrZackeer" width="100%">
+  <img src="./assets/header-v2.svg" alt="MrZackeer" width="100%">
 </p>
 
 <h3>Hola, soy Stiven</h3>
