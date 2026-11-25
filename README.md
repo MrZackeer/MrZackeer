@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="MrZackeer" width="100%">
+  <img src="./assets/header.svg?v=2" alt="MrZackeer" width="100%">
 </p>
 
 <h3>Hola, soy Stiven <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="saludo" width="28"></h3>
@@ -7,7 +7,7 @@
 <a href="https://github.com/MrZackeer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=39FF14&vCenter=true&width=560&lines=Desarrollador+web;Ciberseguridad;Automatizaci%C3%B3n+de+procesos;Moodle+%2B+WordPress;TypeScript+%2B+PHP" alt="Desarrollador web, ciberseguridad, automatización de procesos"></a>
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="whoami: desarrollador web en Caldas, Colombia. Aula virtual y aplicaciones de UNIOC. Ciberseguridad y automatización de procesos." width="100%">
+  <img src="./assets/terminal.svg?v=2" alt="whoami: desarrollador web en Caldas, Colombia. Aula virtual y aplicaciones de UNIOC. Ciberseguridad y automatización de procesos." width="100%">
 </p>
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,nodejs,nestjs,php,mysql,postgres,wordpress,docker,linux,bash&theme=dark" alt="Tecnologías">
