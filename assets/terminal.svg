@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="Terminal: whoami, trabajo, stack, contacto">
+<style>
+  text{font:16px 'Courier New',monospace;white-space:pre}
+  .cur{animation:blink 1s infinite steps(1)}
+  @keyframes blink{50%{opacity:0}}
+@keyframes l0{0%,4.62%{width:153.6px}7.86%,100%{width:211.2px}}
+@keyframes s0{0%,4.55%{opacity:0}4.62%,100%{opacity:1}}
+@keyframes s1{0%,11.63%{opacity:0}11.71%,100%{opacity:1}}
+@keyframes l2{0%,14.41%{width:153.6px}22.50%,100%{width:297.59999999999997px}}
+@keyframes s2{0%,14.33%{opacity:0}14.41%,100%{opacity:1}}
+@keyframes s3{0%,26.27%{opacity:0}26.35%,100%{opacity:1}}
+@keyframes l4{0%,29.04%{width:153.6px}37.13%,100%{width:297.59999999999997px}}
+@keyframes s4{0%,28.97%{opacity:0}29.04%,100%{opacity:1}}
+@keyframes s5{0%,40.91%{opacity:0}40.99%,100%{opacity:1}}
+@keyframes l6{0%,43.68%{width:153.6px}48.54%,100%{width:240px}}
+@keyframes s6{0%,43.61%{opacity:0}43.68%,100%{opacity:1}}
+@keyframes s7{0%,52.31%{opacity:0}52.39%,100%{opacity:1}}
+@keyframes l8{0%,55.08%{width:153.6px}62.63%,100%{width:288px}}
+@keyframes s8{0%,55.01%{opacity:0}55.08%,100%{opacity:1}}
+@keyframes s9{0%,66.41%{opacity:0}66.49%,100%{opacity:1}}
+@keyframes sc{0%,69.11%{opacity:0}69.18%,100%{opacity:1}}
+</style>
+<rect width="900" height="340" rx="12" fill="#0d1117" stroke="#1f6f2b"/>
+<rect width="900" height="32" rx="12" fill="#161b22"/><rect y="20" width="900" height="12" fill="#161b22"/>
+<circle cx="22" cy="16" r="6" fill="#ff5f56"/><circle cx="42" cy="16" r="6" fill="#ffbd2e"/><circle cx="62" cy="16" r="6" fill="#27c93f"/>
+<text x="450" y="21" fill="#8b949e" text-anchor="middle" style="font-size:13px">stiven@unioc: ~</text>
+<g style="animation:s0 12.979999999999999s infinite"><clipPath id="c0"><rect x="22" y="49" height="24" style="animation:l0 12.979999999999999s infinite steps(6)"/></clipPath><text x="22" y="66" clip-path="url(#c0)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">whoami</tspan></text></g><text x="22" y="90" fill="#9da7b3" style="animation:s1 12.979999999999999s infinite">Desarrollador web en Caldas, Colombia</text><g style="animation:s2 12.979999999999999s infinite"><clipPath id="c2"><rect x="22" y="97" height="24" style="animation:l2 12.979999999999999s infinite steps(15)"/></clipPath><text x="22" y="114" clip-path="url(#c2)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">cat trabajo.txt</tspan></text></g><text x="22" y="138" fill="#9da7b3" style="animation:s3 12.979999999999999s infinite">Aula virtual y aplicaciones de UNIOC</text><g style="animation:s4 12.979999999999999s infinite"><clipPath id="c4"><rect x="22" y="145" height="24" style="animation:l4 12.979999999999999s infinite steps(15)"/></clipPath><text x="22" y="162" clip-path="url(#c4)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">cat enfoque.txt</tspan></text></g><text x="22" y="186" fill="#9da7b3" style="animation:s5 12.979999999999999s infinite">Ciberseguridad y automatización de procesos</text><g style="animation:s6 12.979999999999999s infinite"><clipPath id="c6"><rect x="22" y="193" height="24" style="animation:l6 12.979999999999999s infinite steps(9)"/></clipPath><text x="22" y="210" clip-path="url(#c6)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">ls stack/</tspan></text></g><text x="22" y="234" fill="#9da7b3" style="animation:s7 12.979999999999999s infinite">typescript  php  moodle  wordpress  docker</text><g style="animation:s8 12.979999999999999s infinite"><clipPath id="c8"><rect x="22" y="241" height="24" style="animation:l8 12.979999999999999s infinite steps(14)"/></clipPath><text x="22" y="258" clip-path="url(#c8)"><tspan fill="#39ff14">stiven@unioc:~$</tspan> <tspan fill="#e6edf3">./contactar.sh</tspan></text></g><text x="22" y="282" fill="#39ff14" style="animation:s9 12.979999999999999s infinite">[ok] abierto a nuevos proyectos</text><g style="animation:sc 12.979999999999999s infinite"><text x="22" y="306" fill="#39ff14">stiven@unioc:~$</text><rect class="cur" x="175.6" y="291" width="10" height="19" fill="#39ff14"/></g>
+</svg>
